@@ -1,0 +1,336 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no, user-scalable=0">
+
+        <title>Patrick David Creative Agency | Websites, App, Marketing</title>
+        <link rel="alternate" hreflang="it" href="https://patrickdavid.com/it/" />
+        <link rel="alternate" hreflang="en" href="https://patrickdavid.com/" />
+
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="theme-color" content="#131313">
+        
+        <meta name="description" content="Patrick David Agency design, build and operate solutions and integrated digital strategies, tailored and for all needs.">
+        <meta name="robots" content="noodp"/>
+        <meta name="author" content="Patrick David Srls">
+        
+        <!-- Favicons -->
+        <link rel="icon shortcut" href="assets/img/favicon-16.png" sizes="16x16" type="image/png">
+        <link rel="icon" href="assets/img/favicon-32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="assets/img/favicon-48.png" sizes="48x48" type="image/png">
+        <link rel="icon" href="assets/img/favicon-62.png" sizes="62x62" type="image/png">
+        <link rel="icon" href="assets/img/favicon-96.png" sizes="96x96" type="image/png">
+
+        <!-- Canonical -->
+        <link rel="canonical" href="https://patrickdavid.com/">
+        <link rel="publisher" href="https://plus.google.com/+PatrickdavidItWebAgency"/>
+        
+        <!-- Open Graph -->
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Patrick David Creative Agency | Websites, App, Marketing" />
+        <meta property="og:description" content="Patrick David Agency design, build and operate solutions and integrated digital strategies, tailored and for all needs." />
+        <meta property="og:url" content="https://patrickdavid.com/" />
+        <meta property="og:site_name" content="Patrick David Creative Agency" />
+        <meta property="og:image" content="https://patrickdavid.com/assets/img/cover-share.jpg" />
+        
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:description" content="Patrick David Agency design, build and operate solutions and integrated digital strategies, tailored and for all needs." />
+        <meta name="twitter:title" content="Patrick David Creative Agency | Websites, App, Marketing" />
+        <meta name="twitter:site" content="@patrickdavidit" />
+        <meta name="twitter:image" content="https://patrickdavid.com/assets/img/cover-share.jpg" />
+        <meta name="twitter:creator" content="@patrickdavidit" />
+        
+        <!-- Google -->
+        <link href="https://plus.google.com/+PatrickdavidItWebAgency" rel="publisher">
+        <meta itemprop="name" content="Patrick David Web Agency">
+        <meta itemprop="description" content="Patrick David Agency design, build and operate solutions and integrated digital strategies, tailored and for all needs.">
+        <meta itemprop="image" content="https://patrickdavid.com/assets/img/cover-share.jpg">
+        
+        <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/patrickdavid.com\/","name":"Patrick David Creative Agency","potentialAction":{"@type":"SearchAction","target":"https:\/\/patrickdavid.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+                
+        <!-- Custom css -->
+        <link rel="stylesheet" href="assets/css/style.css">
+
+    </head>
+    <body class="dark">
+        <!--  Main Wrap  -->
+        <div id="main-wrapper">
+            <div class="main-container dark">
+                <!--  Header & Menu  -->
+                <header itemscope itemtype="http://schema.org/WPHeader" id="header" role="banner" data-animation="top">
+                    <div class="header-wrap">
+                        <nav itemscope itemtype="http://schema.org/SiteNavigationElement" class="main-navigation">
+                            <!--  Header Logo  -->
+                            <div id="logo" class="vertical">
+                                <a class="navbar-brand" href="/">
+                                    <div class="logo-img"></div>
+                                </a>
+                            </div>
+                            <div id="main-title">
+                                <h1>We make any dream come true</h1>
+                            </div>
+                            <!--  Button for Responsive Menu  -->
+                            <div id="menu-responsive">
+                                <div class="mobile-holder">
+                                    <a href="javascript:void(0)">menu</a>
+                                </div>
+                            </div>
+                            <!--  END Button for Responsive Menu  -->
+                            <!--  END Header Logo  -->
+                            <!--  Menu  -->
+                            <div id="main-menu">
+                                <div class="menu-holder">
+                                    <ul>
+                                        <li>
+                                            <a href="agency.html">agency</a>
+                                        </li>
+                                        <li>
+                                            <a href="work.html">work</a>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div id="overlay-menu-mobile"></div>
+                            <div id="mobile-menu">
+                                <div class="mobile-wrap">
+                                    <ul>
+                                        <li>
+                                            <a href="agency.html">agency</a>
+                                        </li>
+                                        <li>
+                                            <a href="work.html">work</a>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--  END Menu  -->
+                        </nav>
+                    </div>
+                </header>
+                <!--  END Header & Menu  -->
+
+                <!--  Page Content  -->
+                <div id="page-header" class="light" data-animation="top">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-9">
+                                <h2><strong>We are the italian award winning creative agency</strong> skilled on design and development. We are different, because we are like you. <em>We do not follow every customer</em>, but only those who have chosen to be unique, to differentiate themselves from anyone else.</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="scroll-link">
+                        <a href="#page-content" data-title="scroll-down"></a>
+                    </div>
+                </div>
+                <div id="page-content" class="home">
+                    <section class="services-wrap">
+                       <div class="container">
+                            <div class="row">
+                                <div class="offset-xl-2 col-xl-10">
+                                    <div itemscope itemtype="http://schema.org/Service" class="service" data-animation="bottom">
+                                        <div itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness" class="title-wrap">
+                                            <h3 itemprop="name" class="title">design</h3>
+                                        </div>
+                                        <div class="description">
+                                            <p>If something is useful, but it is not also beautiful and usable, we do not like it. We think to the perfect outfit to introduce you to your customers: that it's your brand or the right interface to reach them.</p>
+                                        </div>
+                                        <div class="cta">
+                                            <a href="agency.html" class="btn-line">explore</a>
+                                        </div>
+                                    </div>
+                                    <div itemscope itemtype="http://schema.org/Service" class="service" data-animation="bottom">
+                                        <div itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness" class="title-wrap">
+                                            <h3 itemprop="name" class="title">development</h3>
+                                        </div>
+                                        <div class="description">
+                                            <p>There is no idea that we can not make digital. We design, build and manage all-in-one solutions with a technological mind and a creative heart.</p>
+                                        </div>
+                                        <div class="cta">
+                                            <a href="agency.html" class="btn-line">explore</a>
+                                        </div>
+                                    </div>
+                                    <div itemscope itemtype="http://schema.org/Service" class="service" data-animation="bottom">
+                                        <div itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness" class="title-wrap">
+                                            <h3 itemprop="name" class="title">marketing</h3>
+                                        </div>
+                                        <div class="description">
+                                            <p>We know how to get to the people who are already looking for you. If there is a target for your idea, we can reach it. We will define together goals, strategy and the budget to get where you’ve dreamed.</p>
+                                        </div>
+                                        <div class="cta">
+                                            <a href="agency.html" class="btn-line">explore</a>
+                                        </div>
+                                    </div>
+                                </div>
+                           </div>
+                        </div>
+                    </section>
+                    <section class="projects-wrap" data-animation="bottom">
+                         <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <ul>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="javascript:void(0)" itemprop="name">Microsoft</a><sup>2018</sup></div>
+                                                <div class="image-microsoft"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="look-occhiali.html" data-clicks itemprop="name">Look Occhiali</a><sup>2018</sup></div>
+                                                <div class="image-look"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="userbot.html" data-clicks itemprop="name">Userbot</a><sup>2018</sup></div>
+                                                <div class="image-userbot"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="food-delivery-report.html" data-clicks itemprop="name">Food Delivery Report</a><sup>2018</sup></div>
+                                                <div class="image-food"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="toscano-real-estate.html" data-clicks itemprop="name">Toscano</a><sup>2017</sup></div>
+                                                <div class="image-toscano"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="javascript:void(0)" itemprop="name">Honor</a><sup>2017</sup></div>
+                                                <div class="image-honor"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="javascript:void(0)" itemprop="name">Hip Hop</a><sup>2017</sup></div>
+                                                <div class="image-hip"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="emmearredo.html" data-clicks itemprop="name">EmmeArredo</a><sup>2016</sup></div>
+                                                <div class="image-emmearredo"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="oleomec.html" data-clicks itemprop="name">Oleomec</a><sup>2016</sup></div>
+                                                <div class="image-oleomec"></div>
+                                            </div>
+                                        </li>
+                                        <li itemscope itemtype="http://schema.org/CreativeWork">
+                                            <div class="project">
+                                                <div class="title"><a href="panevino-architettura.html" data-clicks itemprop="name">Pane Vino Architettura</a><sup>2016</sup></div>
+                                                <div class="image-panevino"></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <div class="section-title">
+                                        <h3 class="title">selected projects</h3>
+                                    </div>
+                                </div>
+                             </div>
+                        </div>
+                    </section>
+                    <section class="about-wrap" data-animation="bottom">
+                        <div class="container">
+                            <div class="row">
+                                <div class="offset-lg-3 col-lg-9">
+                                    <div class="content">
+                                        <p class="big">Patrick David is not the usual creative agency. It’s yours. We are an international network of professionals with many years of experience in consulting in all areas of digital, specialized in coordinated online corporate image. We design, build and operate solutions and integrated digital strategies, tailored and for all needs.</p>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 class="title">who we are</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                
+                <!--  Footer  -->
+                <footer itemscope itemtype="http://schema.org/WPFooter" data-animation="bottom">
+                     <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="top">
+                                    <div class="awards">
+                                        <h3>Awards</h3>
+                                        <div class="single-award">
+                                            <div class="img-awwwards"></div>
+                                            <p>2x</p>
+                                        </div>
+                                    </div>
+                                    <div class="awards">
+                                        <div class="single-award">
+                                            <div class="img-cssda"></div>
+                                            <p>9x</p>
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Start a project?</h3>
+                                        <a href="mailto:hello@patrickdavid.com?subject=Start new project">hello@patrickdavid.com</a>
+                                    </div>
+                                </div>
+                                <div class="bottom">
+                                    <div class="copy">
+                                        <h3>Patrick David Srls</h3>
+                                        <h4>Creative Agency</h4>
+                                        <h4>P.Iva 01197560251</h4>
+                                        <ul itemscope itemtype="http://schema.org/Organization">
+                                            <li><a itemprop="sameAs" href="https://facebook.com/patrickdavidit/" target="_blank">Fb</a></li>
+                                            <li><a itemprop="sameAs" href="https://twitter.com/patrickdavidit/"  target="_blank">Tw</a></li>
+                                            <li><a itemprop="sameAs" href="https://instagram.com/patrickdavidit/" target="_blank">In</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="info" itemscope itemtype="http://schema.org/LocalBusiness">
+                                        <h3 itemprop="addressRegion">Italy</h3>
+                                        <h4 itemprop="addressLocality">Belluno</h4>
+                                        <h4 itemprop="streetAddress">Via Carrera 21</h4>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Explore</h3>
+                                        <a href="sitemap.html">Sitemap</a>
+                                        <a href="privacy-policy.html">Privacy Policy</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+                <!--  END Footer. Class fixed for fixed footer  -->
+                
+            </div>
+        </div>
+        <!--  Main Wrap  -->
+
+        <script src="assets/js/master-dist.js"></script>
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91500304-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-91500304-1');
+        </script>
+    </body>
+</html>
