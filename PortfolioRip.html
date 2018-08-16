@@ -65,7 +65,7 @@
                             <!--  Button for Responsive Menu  -->
                             <div id="menu-responsive">
                                 <div class="mobile-holder">
-                                    <a href="javascript:void(0)">menu</a>
+                                    <a id=trigger href="http://www.google.com">menu</a>
                                 </div>
                             </div>
                             <!--  END Button for Responsive Menu  -->
@@ -321,3 +321,21 @@
         </script>
     </body>
 </html>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  
+<script>
+
+$( document ).ready(function() {
+
+	$("#trigger").click(function(){
+    
+	alert('test');
+	});
+	
+});
+
+</script>
