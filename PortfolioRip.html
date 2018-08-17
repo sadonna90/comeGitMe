@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
     <head itemscope itemtype="http://schema.org/WebSite">
@@ -65,7 +64,7 @@
                             <!--  Button for Responsive Menu  -->
                             <div id="menu-responsive">
                                 <div class="mobile-holder">
-                                    <a href="javascript:void(0)">menu</a>
+                                    <a id="trigger" href="http://www.google.com">menu</a>
                                 </div>
                             </div>
                             <!--  END Button for Responsive Menu  -->
@@ -75,7 +74,7 @@
                                 <div class="menu-holder">
                                     <ul>
                                         <li>
-                                            <a href="agency.html">agency</a>
+                                            <a id="something" href="#">agency</a>
                                         </li>
                                         <li>
                                             <a href="work.html">work</a>
@@ -134,7 +133,7 @@
                                             <p>If something is useful, but it is not also beautiful and usable, we do not like it. We think to the perfect outfit to introduce you to your customers: that it's your brand or the right interface to reach them.</p>
                                         </div>
                                         <div class="cta">
-                                            <a href="agency.html" class="btn-line">explore</a>
+                                            <a href="agency.html" class="btn-line">Explore</a>
                                         </div>
                                     </div>
                                     <div itemscope itemtype="http://schema.org/Service" class="service" data-animation="bottom">
@@ -316,8 +315,30 @@
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-
           gtag('config', 'UA-91500304-1');
         </script>
     </body>
 </html>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"> </script>
+  
+<script>
+$( document ).ready(function() {
+	$("#trigger").click(function(){
+		
+		alert('test');
+			
+		});
+	
+	$("#something").click(function(){
+	
+		setTimeout("location.href='http://www.yahoo.com';", 3500);
+	
+	});
+		
+});
+	
+</script>
